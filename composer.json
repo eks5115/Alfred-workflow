@@ -1,0 +1,19 @@
+{
+    "name": "eks5115/alfred-workflow",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eks5115",
+            "email": "eks5115@139.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Com\\Xrotor\\": "src/Com/Xrotor"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
